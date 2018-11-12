@@ -1,0 +1,49 @@
+body{
+    font-family: cursive;
+    font-size: 25px;
+    color: rgba(110, 160, 203, 0.63);
+    background-color: rgba(0, 0, 0, 0.76);
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    
+}
+h1{
+    border-style: solid;
+    border-color: white;
+    padding: 40px;
+    background-color: rgb(91, 96, 96);
+    
+    
+}
+
+h0{
+    text-align:right;
+}
+
+img{
+    display: block;
+    margin:0 auto;
+}
+
+p{
+    border-style: dotted;
+    border-color: lavenderblush;
+    text-align: center;
+    background-color: rgb(91, 96, 96);
+    color: black;
+    
+}
+
+ol{
+    text-align: left;
+    border-bottom-style:ridge;
+}
+
+a{
+    font-weight:bold;
+	text-decoration:none;
+	color: #000000;
+
+    
+}
